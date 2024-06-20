@@ -97,6 +97,23 @@ nav {
     text-align: center;
 }
 
+.logo {
+    width: 100px;
+}
+
+.logo img {
+    width: 100%;
+    height: auto;
+}
+
+.left {
+    margin-right: 20px;
+}
+
+.right {
+    margin-left: 20px;
+}
+
 @media(max-width: 900px) {
     .wrapper-404 {
         padding-top: 20em;
